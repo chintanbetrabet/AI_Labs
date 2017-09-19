@@ -1,0 +1,14 @@
+DONE bigger(X,Y) //X > all of Y's elements
+DONE myappend(X,Y,Z) //is Z append of X,Y
+DONE swapFirstTwo(X,1) 
+DONE isPrefix(X,Y)
+
+occursIn(X,Y) // if X is a substring of
+
+Home work:
+DONE gcd(X,Y,Z)
+DONE rev(X,Y)
+DONE palin(X)
+DONE inBoth(X,A,B)
+DONE setIntersection(A,B,C)
+DONE merge(X,Y,Z)
